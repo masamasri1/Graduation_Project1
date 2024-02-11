@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686579892165",
+    "project_id": "onduty-4fea9",
+    "storage_bucket": "onduty-4fea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686579892165:android:38ea9dc3ff14f6010015ac",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxdk4xB1Ve3Q_FLTJmesblIEGuCKGa8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
